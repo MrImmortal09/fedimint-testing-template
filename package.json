@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@fedimint/core-web": "latest",
+    "@fedimint/fedimint-client-wasm-web": "^0.0.3",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
